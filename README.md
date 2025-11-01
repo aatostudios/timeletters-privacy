@@ -23,3 +23,4 @@ To update the privacy policy:
 
 This privacy policy is linked from the Time Letters app Settings page.
 
+
